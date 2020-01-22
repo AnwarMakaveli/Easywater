@@ -1,0 +1,69 @@
+body{
+	background-color:gray;
+}
+
+	
+	
+}
+.nav-bar{
+    list-style: none;
+
+}
+
+li{
+    list-style:none;
+    color: blue;
+   padding: 20px;
+   float: left;
+}
+img{
+    height: 500px;
+    width: 100%;
+}
+
+.makaveli{
+  width: 45%;
+  height:200px;
+  
+  
+}
+
+.aisha{
+  padding-top: 45px;
+  width: 50%;
+  float:left;
+}
+
+section{
+  display: -webkit-flex:3 ;
+  display:flex
+}
+article{
+  -webkit-flex: 3;
+  -ms-flex: 3;
+  flex: 3;
+  background-color: white;
+  padding: 20px;
+  font-family: 'Bangers', cursive;
+}
+#services{
+  font-size: small;
+  word-spacing: 7.5px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  font-size: large;
+}
+h2{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+}
+.footer{
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color:green;
+  color: black;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
